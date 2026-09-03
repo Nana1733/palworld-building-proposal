@@ -4,7 +4,7 @@ A community proposal exploring possible improvements to Palworld's building syst
 
 ## 📄 Read the Proposal
 
-**[Advanced Building Proposal - Core Draft v1.3](Advanced_Building_Proposal_Core_Draft.md)**
+**[Advanced Building Proposal - Core Draft v1.4](Advanced_Building_Proposal_Core_Draft.md)**
 
 This document explores several possible directions for improving advanced building mechanics while preserving the accessibility and creative spirit of Palworld's existing system.
 
@@ -38,13 +38,13 @@ The goal is not to present a single "correct" solution, but to explore practical
 
 ## 📌 Status
 
-**Current status:** Core Draft v1.3 - Open for discussion and future refinement
+**Current status:** Core Draft v1.4 - Open for discussion and future refinement
 
 This repository will be updated as the proposal develops.
 
 ## 🧭 Repository
 
-* **Core Proposal:** [Advanced Building Proposal - Core Draft v1.3](Advanced_Building_Proposal_Core_Draft.md)
+* **Core Proposal:** [Advanced Building Proposal - Core Draft v1.4](Advanced_Building_Proposal_Core_Draft.md)
 
 ---
 
