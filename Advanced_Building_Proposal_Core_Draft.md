@@ -352,6 +352,8 @@ ghost-placement stage.
 
 Each compatible building piece could contain defined Connection Points.
 
+![Connection Points](images/connection_pts.jpeg)
+
 These points would normally be hidden.
 
 For example, a foundation could have Connection Points around its
@@ -450,6 +452,8 @@ than permanently locking the piece to one position.
 When a valid green connection exists, the player can optionally engage
 Hinge Mode.
 
+![Hindge Mode](images/hindge_mode.jpeg)
+
 The hinge is a temporary manipulation constraint, not a force that
 automatically changes the underlying building rules.
 
@@ -507,6 +511,7 @@ Some axis-lock combinations may therefore produce little or no useful
 movement. The player can disengage the hinge, make the desired linear
 adjustment, and re-engage it when needed.
 
+
 ### Optional Face Target
 
 A further supporting control could allow the player to designate a
@@ -522,6 +527,8 @@ The player could:
 The purpose is to provide a quick and deliberate way to establish
 orientation without requiring the player to manually rotate the ghost
 until the desired facing direction is achieved.
+
+![Face Target](images/face_target.jpeg)
 
 Face Target would therefore complement, rather than replace, Hinge Mode:
 
@@ -547,6 +554,8 @@ otherwise invisible or difficult-to-control states:
 Together, these tools could allow players to manually construct circles,
 arcs, curves, radial structures, and other complex shapes without
 requiring every piece to follow a single shared grid.
+
+![Curve with Hindge Mode](images/curve_with_hindge.jpeg)
 
 The goal is not to automate creativity or make advanced construction
 effortless.
